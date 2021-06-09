@@ -7,11 +7,11 @@
             <webMaster>codelh7@gmail.com (SuperCode)</webMaster><lastBuildDate>Thu, 20 May 2021 18:57:50 &#43;0800</lastBuildDate>
             <atom:link href="https://codelh7.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Test</title>
-    <link>https://codelh7.github.io/test/</link>
+    <title>LeetCode 第244场周赛题解</title>
+    <link>https://codelh7.github.io/leetcode-weekly-contest-244/</link>
     <pubDate>Thu, 29 Apr 2021 20:35:29 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://codelh7.github.io/test/</guid>
-    <description><![CDATA[First Post hello world! how are you?]]></description>
+    <guid>https://codelh7.github.io/leetcode-weekly-contest-244/</guid>
+    <description><![CDATA[Problem A - 判断矩阵经轮转后是否一致 题解： 算法：暴力枚举 思路：将$mat$这个矩阵分别顺时针旋转 90度、180度、270度、360度，然后判断是否]]></description>
 </item></channel>
 </rss>

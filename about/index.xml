@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on SuperCode</title>
+    <link>https://codelh7.github.io/about/</link>
+    <description>Recent content in Abouts on SuperCode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>codelh7@gmail.com (SuperCode)</managingEditor>
+    <webMaster>codelh7@gmail.com (SuperCode)</webMaster>
+    <lastBuildDate>Thu, 20 May 2021 18:57:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://codelh7.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于我</title>
+      <link>https://codelh7.github.io/about/about/</link>
+      <pubDate>Thu, 20 May 2021 18:57:50 +0800</pubDate>
+      <author>codelh7@gmail.com (SuperCode)</author>
+      <guid>https://codelh7.github.io/about/about/</guid>
+      <description>个人简介： 学习经历：计算机科班 | 211本科生 | top5硕士 技能：算法竞赛小学生 | 技术爱好者 | 分布式存储入门级 工作经历： 2021年7月入职腾讯</description>
+    </item>
+    
+  </channel>
+</rss>
