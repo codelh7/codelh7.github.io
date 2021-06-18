@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LRU - 标签 - SuperCode</title>
+        <link>https://codelh7.github.io/tags/lru/</link>
+        <description>LRU - 标签 - SuperCode</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>codelh7@gmail.com (SuperCode)</managingEditor>
+            <webMaster>codelh7@gmail.com (SuperCode)</webMaster><lastBuildDate>Thu, 17 Jun 2021 20:15:49 &#43;0800</lastBuildDate><atom:link href="https://codelh7.github.io/tags/lru/" rel="self" type="application/rss+xml" /><item>
+    <title>Project1—BufferPoolManager LRU替换策略</title>
+    <link>https://codelh7.github.io/project1-1/</link>
+    <pubDate>Thu, 17 Jun 2021 20:15:49 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://codelh7.github.io/project1-1/</guid>
+    <description><![CDATA[任务描述 This component is responsible for tracking page usage in the buffer pool. You will implement a new sub-class called LRUReplacer in src/include/buffer/lru_replacer.h and its corresponding implementation file in src/buffer/lru_replacer.cpp. LRUReplacer extends the abstract Replacer class (src/include/buffer/replacer.h), which contains the function specifications. The size of the LRUReplacer is the same as buffer pool since it contains placeholders for all of the frames in the BufferPoolManager. However, not]]></description>
+</item></channel>
+</rss>

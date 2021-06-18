@@ -21,7 +21,7 @@
 ### LRU
 **LRU**: `Least recently used`。LRU是一种缓存算法，通常也叫做缓存替换策略，用来管理内存中的缓存。根据**wikipedia**的描述[<sup>1</sup>](#refer-anchor-1)，存在将近二十种缓存替换策略。 LRU作为其中一种替换策略，中文表述是**最近最久未使用算法**。
 
-![LRU.png](https://i.loli.net/2021/06/17/SGXYRKCU7bVy9ow.png)
+![LRU.png](https://static01.imgkr.com/temp/5f9c5dc9cdd24459977f26db92a02660.png)
 <center id = "pic1" style="font-size:16px;text-decoration:underline">图1.LRU示意图</center> 
 
 **基本思想**：因为内存是有限的，缓存区也是有限的，因此当缓存中 `page` 满了且我们需要载入一个新的 `page` 的时候，必须将缓存中的一个 `page` 替换出去，将需要的 `page` 再替换进来，才能满足我们的使用需求。为了解决上述的问题， `LRU` 的基本思想是，将缓存中最久未使用过的 `page` 替换出去。
